@@ -1,0 +1,4 @@
+*.pdf
+top_output.txt
+__pycache__/
+*.pyc
