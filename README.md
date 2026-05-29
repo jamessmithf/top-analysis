@@ -12,7 +12,6 @@
 
 ```
 top_analysis/
-├── generate_report.py       # Аналіз даних, побудова графіків, генерація PDF
 ├── fig1_annotated.png       # Анотований графік загального навантаження
 ├── fig2_cpu_mem.png         # CPU та пам'ять у часі
 ├── fig3_top_procs.png       # Топ процесів за споживанням
