@@ -48,14 +48,6 @@ top -b -n 60 -d 1 > top_output.txt
 - `-n 60` — 60 ітерацій
 - `-d 1` — інтервал 1 секунда
 
-### Генерація звіту
-
-```bash
-python3 generate_report.py
-```
-
-Скрипт зчитає `top_output.txt`, побудує графіки і збереже `top_analysis_report.pdf`.
-
 ## Графіки
 
 | Файл | Опис |
